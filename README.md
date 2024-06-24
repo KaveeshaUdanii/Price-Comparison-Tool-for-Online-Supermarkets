@@ -21,12 +21,3 @@ product_glomark = 'coconut'
 cheaper_option = compare_prices(product_laughs, product_glomark)
 print(f"For {product_laughs}, {cheaper_option} offers a better price currently.")
 ```
-
-#### Contributing:
-Feel free to fork the repository, submit issues, or create pull requests for any improvements or additional features you'd like to see.
-
-#### License:
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-

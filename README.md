@@ -1,4 +1,4 @@
-### Price Comparison Tool for Online Supermarkets
+## Price Comparison Tool for Online Supermarkets
 
 This Python script allows users to compare prices of specific products between two online supermarkets, LaughSuper and Glomark. The script fetches and extracts the current prices from the respective websites and determines which option offers the better price at the time of execution.
 
